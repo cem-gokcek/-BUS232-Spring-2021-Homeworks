@@ -1,0 +1,4 @@
+AccountName	AccountNumber	Date	DescriptionOfTheEntry	PostingReference	Debit	Credit	DebitBalance	CreditBalance
+bora	12345678	2021-05-30	money	debit	5655	9565	564565	6262
+bora	12345678	2021-05-30	money	credit	656565	+32	244644	6265
+bora	12345678	2021-05-30	money	balance	6656	656	87878	5252

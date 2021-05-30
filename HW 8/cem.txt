@@ -1,0 +1,4 @@
+AccountName	AccountNumber	Date	DescriptionOfTheEntry	PostingReference	Debit	Credit	DebitBalance	CreditBalance
+cem	12345678	2021-05-30	money	debit	56565	7878	5262	9655
+cem	12345678	2021-05-30	credit	money	555656	6622	56223	8989
+cem	12345678	2021-05-30	money	transfer	898	55555	778	96952
