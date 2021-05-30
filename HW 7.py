@@ -18,7 +18,7 @@ def GuestList():
     #make a set of that list
     unified_set = set(unified_list)
     #remove the first element because the first element will be an empty string
-    unified_set.remove(list(unified_set)[0])
+    
     #return the set
     return unified_set
 if __name__ == "__main__":
