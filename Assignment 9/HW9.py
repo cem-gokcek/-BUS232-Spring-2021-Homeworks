@@ -1,7 +1,7 @@
 import pandas
 
 #taking the data from the excel
-#the adress of the file which i mentioned below, could be a reason for not working on your computer
+#hocam please be careful on the adres 
 excel_data_hami = pandas.read_excel('C:/Users/Arrow/Desktop/Assignment 9/HW9.xlsx', sheet_name='Sayfa1')
 
 #finding the columns names
